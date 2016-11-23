@@ -1,4 +1,2 @@
-27 27.3
 this is a line
 this is another line
-
