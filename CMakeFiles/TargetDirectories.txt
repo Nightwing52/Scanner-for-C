@@ -1,7 +1,0 @@
-/home/tyler/Scanner-for-C/CMakeFiles/install.dir
-/home/tyler/Scanner-for-C/CMakeFiles/list_install_components.dir
-/home/tyler/Scanner-for-C/CMakeFiles/rebuild_cache.dir
-/home/tyler/Scanner-for-C/CMakeFiles/Scanner.dir
-/home/tyler/Scanner-for-C/CMakeFiles/install/local.dir
-/home/tyler/Scanner-for-C/CMakeFiles/install/strip.dir
-/home/tyler/Scanner-for-C/CMakeFiles/edit_cache.dir
