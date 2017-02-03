@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Werror   CMakeFiles/Scanner.dir/example.c.o  -o Scanner -rdynamic 
