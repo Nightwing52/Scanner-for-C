@@ -7,6 +7,7 @@ set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -Werror")
 
 set(SOURCES
 	example.c
+	scanner.c
 	scanner.h
 )
 
